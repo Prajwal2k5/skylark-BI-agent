@@ -1,0 +1,20 @@
+{
+  "name": "skylark-bi-agent",
+  "version": "1.0.0",
+  "description": "Full-stack AI Business Intelligence Chatbot & Dashboard for Monday.com",
+  "scripts": {
+    "start": "cd server && npm start",
+    "dev:server": "cd server && npm run dev",
+    "dev:client": "cd client && npm run dev",
+    "build": "cd client && npm run build"
+  },
+  "keywords": [
+    "monday.com",
+    "gemini-ai",
+    "react",
+    "express",
+    "business-intelligence"
+  ],
+  "author": "Skylark BI Agent",
+  "license": "ISC"
+}
